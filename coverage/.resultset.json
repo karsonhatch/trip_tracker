@@ -1,0 +1,214 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/environment.rb": [
+        null,
+        1,
+        null,
+        null,
+        1
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/application.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/boot.rb": [
+        1,
+        null,
+        1
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/environments/test.rb": [
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/initializers/assets.rb": [
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/initializers/backtrace_silencers.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/initializers/cookies_serializer.rb": [
+        null,
+        null,
+        1
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/initializers/filter_parameter_logging.rb": [
+        null,
+        null,
+        null,
+        1
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/initializers/inflections.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/initializers/mime_types.rb": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/initializers/session_store.rb": [
+        null,
+        null,
+        1
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/initializers/wrap_parameters.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/config/routes.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/app/helpers/addresses_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/app/helpers/locations_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/app/helpers/trips_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/app/models/address.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/app/models/location.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/karsonhatch/Desktop/trip/TripTracker/app/models/trip.rb": [
+        1,
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1458679866
+  }
+}
